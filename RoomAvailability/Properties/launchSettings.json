@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RoomAvailability": {
+      "commandName": "Project",
+      "commandLineArgs": "--bookings c:\\temp\\RoomAvailability\\TestData\\bookings.json \r\n --hotels c:\\temp\\RoomAvailability\\TestData\\hotels.json "
+    }
+  }
+}
